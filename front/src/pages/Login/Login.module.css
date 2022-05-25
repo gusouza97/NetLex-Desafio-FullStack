@@ -1,0 +1,7 @@
+.display_login {
+    background-image: url('../../assets/images/unsplash_m_7p45JfXQo.png');
+    background-size: cover;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}

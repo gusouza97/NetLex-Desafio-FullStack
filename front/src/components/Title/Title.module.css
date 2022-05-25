@@ -1,0 +1,10 @@
+.title {
+    align-items: center;
+    display: flex;
+    font-size: 36px;
+    height: 100px;
+}
+
+.title h1 {
+    margin-left: 80px;
+}

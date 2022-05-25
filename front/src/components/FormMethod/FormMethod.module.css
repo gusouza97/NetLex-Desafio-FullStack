@@ -1,0 +1,21 @@
+.display_method {
+    display: flex;
+    flex-direction: column;
+    margin-left: 120px;
+}
+
+.display_method form {
+    display: flex;
+    height: 200px;
+    justify-content: flex-start;
+    margin-top: 80px;
+}
+
+.display_method form label {
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.display_method form button {
+    margin-top: 25px;
+}

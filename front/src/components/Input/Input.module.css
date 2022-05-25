@@ -1,0 +1,16 @@
+input {
+    border: 1px solid #AAA;
+    border-radius: 4px;
+    font-size: 18px;
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.input_medium {
+    width: 420px;
+}
+
+.input_extralarge {
+    width: 200px;
+}

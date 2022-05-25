@@ -1,0 +1,20 @@
+.display_result {
+    align-items: flex-start;
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+    margin-left: 120px;
+}
+
+.display_result ul {
+    color: #3A5163;
+    margin-top: 40px;
+}
+
+.display_result ul li {
+    margin-bottom: 20px;
+}
+
+.method {
+    margin-left: 180px;
+}
