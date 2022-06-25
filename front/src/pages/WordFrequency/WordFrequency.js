@@ -32,11 +32,11 @@ function WordFrequency(){
                 return false
             }
 
-            fetch('http://localhost:3035/documents/word-frequency', {
+            fetch('http://localhost:3086/documents/word-frequency', {
                 mode: 'cors',
                 method: "POST",
                 headers:{
-                    "Origin": "http://localhost:3000",
+                    "Origin": "http://localhost:3001",
                     "Content-Type": "application/json",
                     "Accept": 'application/json',
                     'Authorization': `Bearer ${token}`

@@ -3,6 +3,6 @@ module.exports = {
     password: '123456',
     database: 'netlex-test',
     dialect: 'mysql',
-    port: '3350',
-    host: 'localhost'
+    port: '3306',
+    host: 'db-netlex-test'
 }
